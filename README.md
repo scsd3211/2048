@@ -8,6 +8,13 @@ Based on https://github.com/gabrielecirulli/2048
 
 
 
-![](http://ww1.sinaimg.cn/large/9732f922jw1eziyfcd233j20f00qo3zf.jpg)
+# 2048  纯净版本
 
-#I think nobody can reach the score！！
+
+
+
+![image](https://github.com/scsd3211/2048/blob/cz/release/Screenshot_2018-10-16-11-01-27-647_2048CleanVersion.png?raw=true)
+
+
+![image](https://github.com/scsd3211/2048/blob/cz/release/Screenshot_2018-10-16-13-29-43-924_2048CleanVersion.png?raw=true)
+
